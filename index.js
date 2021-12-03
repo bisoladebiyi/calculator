@@ -22,7 +22,7 @@ let pendingVal;
 let evalStringArray = [];
 
 let operate = (clickObj) => {
-    let operateBtn = clickObj.target.innerText
+    let operateBtn = clickObj.target.innerText 
 
     switch(operateBtn) {
         case '+':
