@@ -15,6 +15,10 @@ body {
     height: 100vh;
 }
 
+#calc-parent{
+    margin-bottom: 50px;
+}
+
 .calc-btn {
     color: black;
     background-color: white;
@@ -24,7 +28,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 45px;
+    height: 60px;
 
 }
 .calc-btn:hover {
